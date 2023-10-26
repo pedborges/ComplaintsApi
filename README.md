@@ -5,13 +5,11 @@ Trabalho realizado para a pós-graduação na Faculdade FIAP.
 - Persistir dados no Banco de Dados (NoSQL-Firebase);
 - Comunicar com a API python (Link:);
 - Persisitir imagens dentro do blob storage da Azure;
-
-## URLS: </br>
-
-<b>POST:</b>
+<h2><b>URL'S:</b></h2>h2>
+<b>POST</b>
 -
 -
-<b>GET:</b>
+<b>GET</b>
 -
 -
 <b>UPDATE</b>
