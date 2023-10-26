@@ -1,4 +1,4 @@
-<h1>☸ Asp.Net API: Persistência de dados </h1>
+<h1>💻 Asp.Net API: Persistência de dados </h1>
 Trabalho realizado para a pós-graduação na Faculdade FIAP.
 
 🔸 <b>Objetivos</b>
@@ -6,17 +6,20 @@ Trabalho realizado para a pós-graduação na Faculdade FIAP.
 - Comunicar com a API python (Link:);
 - Persisitir imagens dentro do blob storage da Azure;
 
-## URLS:
-## POST:
+## URLS: </br>
+
+<b>POST:</b>
 -
 -
-## GET:
+<b>GET:</b>
 -
 -
-## UPDATE
+<b>UPDATE</b>
 -
 -
-## DELETE
+<b>DELETE</b>
+-
+-
 
 
 
