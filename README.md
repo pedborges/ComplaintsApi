@@ -8,7 +8,9 @@ Trabalho realizado para a pós-graduação na Faculdade FIAP.
 - Comunicar com a API python (Link:);
 - Persisitir imagens dentro do blob storage da Azure;
 <h2><b>URL'S:</b></h2>
-![image](https://github.com/pedborges/ComplaintsApi/assets/110577886/7bd5eff3-0d20-44f9-96b4-d9a254e60c12)
+
+![image](https://github.com/pedborges/ComplaintsApi/assets/110577886/1631e6f2-34ce-4575-a504-58ee5c724852)
+
 
 ## ✅ Pré requisitos:
 -Se faz necessário a definição do caminho referente ao seu banco de dados.
