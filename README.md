@@ -1,33 +1,14 @@
 <h1>💻 Asp.Net API: Persistência de dados </h1>
 Trabalho realizado para a pós-graduação na Faculdade FIAP.
 
+
+
 🔸 <b>Objetivos</b>
 - Persistir dados no Banco de Dados (NoSQL-Firebase);
 - Comunicar com a API python (Link:);
 - Persisitir imagens dentro do blob storage da Azure;
 <h2><b>URL'S:</b></h2>
-<b>POST</b></br> 
-
--
-
--
-<b>GET</b></br>
-
--
-
--
-<b>UPDATE</b></br>
-
--
-
--
-<b>DELETE</b></br>
-
--
-
--
-
-
+![image](https://github.com/pedborges/ComplaintsApi/assets/110577886/7bd5eff3-0d20-44f9-96b4-d9a254e60c12)
 
 ## ✅ Pré requisitos:
 -Se faz necessário a definição do caminho referente ao seu banco de dados.
@@ -35,7 +16,6 @@ Trabalho realizado para a pós-graduação na Faculdade FIAP.
 
 
 ## ℹ️ Dúvidas:
-
 Acesse:
 
 Grafana:
