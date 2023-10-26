@@ -4,7 +4,7 @@ Trabalho realizado para a pós-graduação na Faculdade FIAP.
 
 
 🔸 <b>Objetivos</b>
-- Persistir dados no Banco de Dados (NoSQL-Firebase);
+- Persistir dados no Banco de Dados (NoSQL-MongoDB);
 - Comunicar com a API python (Link:);
 - Persisitir imagens dentro do blob storage da Azure;
 <h2><b>URL'S:</b></h2>
@@ -19,12 +19,11 @@ Trabalho realizado para a pós-graduação na Faculdade FIAP.
 ## ℹ️ Dúvidas:
 Acesse:
 
-Grafana:
-https://grafana.com/docs/grafana/latest/
+MongoDB Documentation:
+https://www.mongodb.com/docs/
 
-Prometheus:
-[https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal?WT.mc_id=AZ-MVP-5001893](https://prometheus.io/docs/introduction/overview/)
+Aprenda C#:
+https://learn.microsoft.com/pt-br/dotnet/csharp/
 
-Ingress-nginx Controller 
-[https://docs.microsoft.com/en-us/azure/developer/terraform/overview?WT.mc_id=AZ-MVP-5001893](https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/configmap/)https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/configmap/
+
 
