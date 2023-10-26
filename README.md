@@ -9,8 +9,7 @@ Trabalho realizado para a pós-graduação na Faculdade FIAP.
 - Persisitir imagens dentro do blob storage da Azure;
 <h2><b>URL'S:</b></h2>
 
-![image](https://github.com/pedborges/ComplaintsApi/assets/110577886/1631e6f2-34ce-4575-a504-58ee5c724852)
-
+![image](https://github.com/pedborges/ComplaintsApi/assets/110577886/0f79857a-ee97-4194-a811-fd4d7c140140)
 
 ## ✅ Pré requisitos:
 -Se faz necessário a definição do caminho referente ao seu banco de dados.
