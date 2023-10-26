@@ -6,17 +6,25 @@ Trabalho realizado para a pós-graduação na Faculdade FIAP.
 - Comunicar com a API python (Link:);
 - Persisitir imagens dentro do blob storage da Azure;
 <h2><b>URL'S:</b></h2>
-<b>POST</b></br>
+<b>POST</b></br> 
+
 -
+
 -
 <b>GET</b></br>
+
 -
+
 -
 <b>UPDATE</b></br>
+
 -
+
 -
 <b>DELETE</b></br>
+
 -
+
 -
 
 
