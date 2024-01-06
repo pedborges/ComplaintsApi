@@ -1,4 +1,4 @@
-<h1>💻 Asp.Net API: Persistência de dados </h1>
+<h1>💻 .Net API: Persistência de dados </h1>
 Trabalho realizado para a pós-graduação na Faculdade FIAP.
 
 
